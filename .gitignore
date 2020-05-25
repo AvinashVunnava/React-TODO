@@ -1,0 +1,5 @@
+#React/Javascript
+node_modules
+
+#Distrribution/packing
+build/
